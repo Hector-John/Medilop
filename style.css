@@ -1007,7 +1007,7 @@ footer {
     align-items: center;
     position: relative;
     width: 90%;
-    margin-top: 13rem;
+    margin-top: 15rem;
   }
   .column:not(:last-child)::after {
     width: 0px;
